@@ -1,6 +1,6 @@
 # HotelManagment1
 
-To install all dependencies use `pip install -r requirements.txt
+To install all dependencies use `pip install -r requirements.txt`
 
 All endpoints are implemented 
 
